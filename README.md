@@ -1,49 +1,53 @@
-# Hamsadurga
+# 👋 Hamsadurga 
 
-### Embedded Linux | Linux Kernel | BSP & Platform Software Engineer
+### 💻 Embedded Linux | Linux Kernel | BSP & Platform Software Engineer
 
 I work on Embedded Linux and platform software, with experience spanning automotive systems, Linux kernel integration, BSP development and Yocto-based build systems.
 
 ---
 
-## Work Experience
+### 👩‍💻 Work Experience
 
 - **Software Engineer II — Mirafra Technologies**  
-  Qualcomm platform assignment | Linux kernel integration, kernel build workflows, Yocto and platform validation.
+  🔹 Qualcomm platform assignment | Linux platform integration, kernel build workflows, Yocto and platform validation.
 
 - **Embedded Software Engineer — Raptee Energy**  
-  Automotive Embedded Linux | TI AM62x BSP, Device Tree customization, I2C peripheral integration, CAN/SocketCAN and Yocto.
+  🔹 Automotive Embedded Linux | TI AM62x BSP, Device Tree customization, I2C peripheral integration, CAN/SocketCAN and Yocto.
 
 ---
 
-## Technical Focus
+### ⚙️ Technical Expertise
 
-- **Linux Kernel:** Device model, driver binding, probe debugging, kernel integration.
-- **BSP & Device Tree:** TI AM62x, DTS/DTSI, board-level peripheral integration.
-- **Embedded Linux:** Yocto, BitBake, Linux boot and image generation.
-- **Interfaces:** I2C, SPI, UART, CAN/SocketCAN.
-- **Programming:** C, Python, Shell scripting.
-- **Platforms:** ARM-based embedded systems, Qualcomm platforms, TI AM62x.
+- 🐧 **Linux Kernel:** Device model, driver binding, probe debugging, kernel integration.
+- 🔧 **BSP & Device Tree:** TI AM62x, DTS/DTSI, board-level peripheral integration.
+- 🏗️ **Embedded Linux:** Yocto, BitBake, Linux boot and image generation.
+- 🔌 **Hardware Interfaces:** I2C, SPI, UART, CAN/SocketCAN.
+- 💻 **Programming:** C, Python, Shell scripting.
+- 🖥️ **Platforms:** ARM-based embedded systems, Qualcomm platforms, TI AM62x.
 
 ---
 
-## Selected Technical Work
+### 🚀 Selected Technical Work
 
-### Linux Kernel DRM Panel Investigation
+#### 🔹 Linux Kernel DRM Panel Investigation
 
 Investigating Linux DRM panel driver behaviour, regulator sequencing, error handling and ARM64 cross-compilation.
 
-Repository: [linux-kernel-drm-panel-investigation](https://github.com/hprojg/linux-kernel-drm-panel-investigation)
+📂 [Explore Repository](https://github.com/hprojg/linux-kernel-drm-panel-investigation)
 
-### Linux Kernel Exploration
+#### 🔹 Linux Kernel Exploration
 
 Exploring Linux kernel source, platform integration and driver development.
 
-Repository: [kernel](https://github.com/hprojg/kernel)
+📂 [Explore Repository](https://github.com/hprojg/kernel)
 
 ---
 
-## Connect
+### 📫 Let's Connect
 
-- LinkedIn: [Hamsadurga Saravanan](https://www.linkedin.com/in/hamsadurga-saravanan-701367191/)
-- GitHub: [hprojg](https://github.com/hprojg)
+- 💼 LinkedIn: [Hamsadurga Saravanan](https://www.linkedin.com/in/hamsadurga-saravanan-701367191/)
+- 🐙 GitHub: [hprojg](https://github.com/hprojg)
+
+---
+
+⭐ *Building, debugging and understanding systems — one layer at a time.*
