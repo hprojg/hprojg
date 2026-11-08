@@ -8,11 +8,11 @@ I work on Embedded Linux and platform software, with experience spanning automot
 
 ### 👩‍💻 Work Experience
 
-- **Software Engineer II — Mirafra Technologies**  
-  🔹 Qualcomm platform assignment | Linux platform integration, kernel build workflows, Yocto and platform validation.
+- **Software Engineer II — Mirafra Technologies**
+🔹 Qualcomm platform assignment | Linux platform integration, kernel build workflows, Yocto and platform validation.
 
-- **Embedded Software Engineer — Raptee Energy**  
-  🔹 Automotive Embedded Linux | TI AM62x BSP, Device Tree customization, I2C peripheral integration, CAN/SocketCAN and Yocto.
+- **Embedded Software Engineer — Raptee Energy**
+🔹 Automotive Embedded Linux | TI AM62x BSP, Device Tree customization, I2C peripheral integration, CAN/SocketCAN and Yocto.
 
 ---
 
